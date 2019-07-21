@@ -1,0 +1,25 @@
++---------------------------------------------------------------------------------------------------------------+
+|                                      PNG ANALYSIS RESULTS --> BONSAI.PNG                                      |
++---------------------------------------------------------------------------------------------------------------+
+|  No.     TAG      INDEX      LENGHT     DATA          CRC32VALUE           CRC32CALCULATED       CRC32_EQUAL  |
+|   01     IHDR       12         13        13        b'9\xd1\xb8\x11'        b'9\xd1\xb8\x11'          True     |
+|   02     IDAT      945        8192      8192      b'\xcb\xae\x91\t'       b'\xcb\xae\x91\t'          True     |
+|   03     IDAT      9149       8192      8192        b' G\xa7\xd8'           b' G\xa7\xd8'            True     |
+|   04     IDAT     17353       8192      8192        b'\x13m\x97 '           b'\x13m\x97 '            True     |
+|   05     IDAT     25557       8192      8192       b'\x89K\xbb\xa0'        b'\x89K\xbb\xa0'          True     |
+|   06     IDAT     33761       8192      8192       b'\xaba\x13\x82'        b'\xaba\x13\x82'          True     |
+|   07     IDAT     41965       8192      8192        b'\x8az\x131'           b'\x8az\x131'            True     |
+|   08     IDAT     50169       8192      8192       b'#\x82\x9c\xd0'        b'#\x82\x9c\xd0'          True     |
+|   09     IDAT     58373       8192      8192       b'\xe5\x14&\xc1'        b'\xe5\x14&\xc1'          True     |
+|   10     IDAT     66577       8192      8192        b'^\xcf\x9f,'           b'^\xcf\x9f,'            True     |
+|   11     IDAT     74781       8192      8192        b'W\xa0\x81T'           b'W\xa0\x81T'            True     |
+|   12     IDAT     82985       8192      8192          b'\x0b.>d'              b'\x0b.>d'             True     |
+|   13     IDAT     91189       8192      8192        b'l\x90\xe74'           b'l\x90\xe74'            True     |
+|   14     IDAT     99393       8192      8192          b']\xd0Zv'              b']\xd0Zv'             True     |
+|   15     IDAT     107597      8192      8192       b'\xf7N\xaa\xf8'        b'\xf7N\xaa\xf8'          True     |
+|   16     IDAT     115801      8192      8192       b'\x9c\xaaR\x8f'        b'\x9c\xaaR\x8f'          True     |
+|   17     IDAT     124005      8192      8192     b'\x90\xf0\xaf\x87'     b'\x90\xf0\xaf\x87'         True     |
+|   18     IDAT     132209      8192      8192       b'\xf6\xdc\xb3f'        b'\xf6\xdc\xb3f'          True     |
+|   19     IDAT     140413      1113      1113          b'\xb5#Vd'              b'\xb5#Vd'             True     |
+|   20     IEND     141538       0         0          b'\xaeB`\x82'           b'\xaeB`\x82'            True     |
++---------------------------------------------------------------------------------------------------------------+

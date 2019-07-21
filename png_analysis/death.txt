@@ -1,0 +1,36 @@
++---------------------------------------------------------------------------------------------------------------+
+|                                       PNG ANALYSIS RESULTS --> DEATH.PNG                                      |
++---------------------------------------------------------------------------------------------------------------+
+|  No.     TAG      INDEX      LENGHT     DATA          CRC32VALUE           CRC32CALCULATED       CRC32_EQUAL  |
+|   01     IHDR       12         13        13       b'\xcd\x88\xb1\r'       b'\xcd\x88\xb1\r'          True     |
+|   02     IDAT       74        8192      8192        b'-\x94\xeb2'           b'-\x94\xeb2'            True     |
+|   03     IDAT      8278       8192      8192       b'\xd2\x8ds\xdb'        b'\xd2\x8ds\xdb'          True     |
+|   04     IDAT     16482       8192      8192        b'\xe9\x01jF'           b'\xe9\x01jF'            True     |
+|   05     IDAT     24686       8192      8192     b'\x1b\xc9\xb9\x9d'     b'\x1b\xc9\xb9\x9d'         True     |
+|   06     IDAT     32890       8192      8192       b'\xc4\x8b\xca?'        b'\xc4\x8b\xca?'          True     |
+|   07     IDAT     41094       8192      8192        b'\x86cO\x18'           b'\x86cO\x18'            True     |
+|   08     IDAT     49298       8192      8192          b"5J'\xdf"              b"5J'\xdf"             True     |
+|   09     IDAT     57502       8192      8192       b'\xe6\xb16\xfd'        b'\xe6\xb16\xfd'          True     |
+|   10     IDAT     65706       8192      8192       b'\xfbg\x8f\xc3'        b'\xfbg\x8f\xc3'          True     |
+|   11     IDAT     73910       8192      8192     b'\xf8\x18\xc6\x88'     b'\xf8\x18\xc6\x88'         True     |
+|   12     IDAT     82114       8192      8192       b'\xb2\x8f\x91B'        b'\xb2\x8f\x91B'          True     |
+|   13     IDAT     90318       8192      8192          b']?\xe8z'              b']?\xe8z'             True     |
+|   14     IDAT     98522       8192      8192       b'\xe8N\xcf\x11'        b'\xe8N\xcf\x11'          True     |
+|   15     IDAT     106726      8192      8192       b'\xdaL\xe4\xe5'        b'\xdaL\xe4\xe5'          True     |
+|   16     IDAT     114930      8192      8192        b'\x7f\xfeP|'           b'\x7f\xfeP|'            True     |
+|   17     IDAT     123134      8192      8192        b'r\xce\xb44'           b'r\xce\xb44'            True     |
+|   18     IDAT     131338      8192      8192        b'S\xdd\x8b\r'            b'\xf9 N)'            False     |
+|   19     IDAT     139561      8192      8192        b'\xbc.\x89f'           b'\xbc.\x89f'            True     |
+|   20     IDAT     147765      8192      8192        b'#v\xc7\xba'          b'\x1dU\x98\x85'         False     |
+|   21     IDAT     155969      8192      8192        b'\xa8\x86SX'           b'\xa8\x86SX'            True     |
+|   22     IDAT     164173      8192      8192          b'#\xfb/0'              b'#\xfb/0'             True     |
+|   23     IDAT     172377      8192      8192       b'\xcd\x9dU\xb6'        b'\xcd\x9dU\xb6'          True     |
+|   24     IDAT     180581      8192      8192        b'gl\xcd\xea'           b'gl\xcd\xea'            True     |
+|   25     IDAT     188785      8192      8192        b'\xebS3\x7f'           b'\xebS3\x7f'            True     |
+|   26     IDAT     196989      8192      8192          b'GP*\xdf'              b'GP*\xdf'             True     |
+|   27     IDAT     205193      8192      8192       b'\x87,\xc7\xca'        b'\x87,\xc7\xca'          True     |
+|   28     IDAT     213397      8192      8192     b'\x08\x0e\x8f\xc1'     b'\x08\x0e\x8f\xc1'         True     |
+|   29     IDAT     221601      8192      8192       b'Z\xd2\xea\xfe'        b'Z\xd2\xea\xfe'          True     |
+|   30     IDAT     229805      7300      7300        b'\x85\xcde}'           b'\x85\xcde}'            True     |
+|   31     IEND     237117       0         0          b'\xaeB`\x82'           b'\xaeB`\x82'            True     |
++---------------------------------------------------------------------------------------------------------------+
