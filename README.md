@@ -1,2 +1,2 @@
-# forensics_stuff
-my struggles with forensics
+# ctf_stuff
+my struggles with ctf's
